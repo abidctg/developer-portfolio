@@ -1,12 +1,39 @@
-title{
-    font-size: xx-large;color: black;background-color: lime;
-border-radius: 50% 50% 50%;}
-#abid{
-    color: black;border-radius: 30px 30px 30px; background-color: chartreuse;bottom: 50% 50%;font-size: medium;
+body{font-family: 'Poppins', sans-serif;
+margin: 0%;
 }
-#my{
-    color: lime;bottom: 50% 50%;border-radius: 30px 30px 30px; background-color: orange;
-font-size: medium;}
-.life{
-    color: black;background-color: chartreuse;border: cornsilk;
-border-radius: 30% 30%;font-size: medium;}
+h1{
+    font-size: 50px;
+}
+.abid{
+    color: lawngreen;
+}
+.org{
+    color: orange;
+}
+#bio{
+    color: black;
+}
+.ab{
+    color: black;background-color: chartreuse;border-radius: 10px; font-size: 20px;}
+    section{
+        display: flex;
+    }
+    .half-width{
+        width:50%;
+        padding: 2%;
+    }
+.half-width img{
+    width:80% ;
+}
+.link-button{
+   text-decoration:none ;
+   background-image: linear-gradient(orange, orangered);font-weight: 700; color: blue;
+    padding: 10px 40px; background-color:orange;border-radius: 10px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat ;
+}
+
+
+
