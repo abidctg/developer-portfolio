@@ -15,13 +15,15 @@ h1{
 }
 .ab{
     color: black;background-color: lawngreen;border-radius: 10px; font-size: 20px;}
-    section{
+    .flexible-container{
         display: flex;
         margin-bottom: 100;
     }
     .half-width{
         width:50%;
         padding: 2%;
+
+
     }
 .half-width img{
     width:80% ;
@@ -41,9 +43,42 @@ h1{
 .e{
     color:lawngreen ;
 }
-.f{color: lawngreen;  font-size: x-large; font-weight: 700;                         }
-.g{color: orange;font-size: large; font-weight: 700;                       }
+.f{color: lawngreen;  font-size: 1.5em; font-weight: 700;                         }
+.g{color: orange;font-size: 1.5em; font-weight: 700;                       }
 .h{ color: black; background-color:lawngreen;font-size: medium;font-weight: 700;                             
+display: flex;
+}
+.i{color: lawngreen;} 
+.j{color: orange; 
+                                  } 
+ .k{
+     color: orange;
+ }                                 
+ .l{
+     color: lawngreen;
+ }                                 
+.m{color: lawngreen; }
+.n{color: orange;                                 }
+.o{color: orange;  }
+.d{color: lawngreen; 
+ }
+.ef{color: lawngreen;}
+.gh{color: orange;                    }
+.experience-area{ background-image: url(images/exp-bg.png); background-repeat: no-repeat;background-position: left; }
+.experience-item{width: 40%; margin-left: 5%; margin-right: 5%; padding-left: 20px; padding-right: 20px; border-radius: 10px;
+box-shadow: 10px 10px 50px lawngreen; }
+#web-dev-experience{border-left: 7px solid; 
+    border-image: linear-gradient(orange,lawngreen); border-image-slice: 1;                                                              
+}
+#full-stack-experience{border-left: 7px solid; 
+    border-image: linear-gradient(orange,lawngreen); border-image-slice: 1;                                
 
 }
+
+
+
+
+
+
+
 
