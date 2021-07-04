@@ -14,9 +14,10 @@ h1{
     color: black;
 }
 .ab{
-    color: black;background-color: chartreuse;border-radius: 10px; font-size: 20px;}
+    color: black;background-color: lawngreen;border-radius: 10px; font-size: 20px;}
     section{
         display: flex;
+        margin-bottom: 100;
     }
     .half-width{
         width:50%;
@@ -34,6 +35,15 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat:no-repeat ;
 }
+.d{
+    color: orange;
+}
+.e{
+    color:lawngreen ;
+}
+.f{color: lawngreen;  font-size: x-large; font-weight: 700;                         }
+.g{color: orange;font-size: large; font-weight: 700;                       }
+.h{ color: black; background-color:lawngreen;font-size: medium;font-weight: 700;                             
 
-
+}
 
